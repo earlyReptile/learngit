@@ -106,4 +106,6 @@ if __name__ == '__main__':
 	input("\n Press the enter key to exit.")
 
 	print("add this to test git")
+
+	print("to test git second")
 		
